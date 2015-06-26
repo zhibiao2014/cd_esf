@@ -1,0 +1,149 @@
+﻿
+/*顶部*/
+/*.regtop{width:960px;height:80px;margin:0 auto;}
+.regtoplogo{width:955px;height:35px;padding-top:30px;padding-left:5px;}
+.regtoplogo .s1{float:left;width:150px;height:35px;}
+.regtoplogo .s2{float:right;height:16px;line-height:16px;margin-top:19px;color:#666;}
+.regtoplogo .s2 a{color:#1e50a2;}*/
+/*主体*/
+.regmain{width:960px;margin:20px auto 0 auto;}
+.regmain01{width:960px;height:14px;background:url(../../images/user/QQ/title01.gif) no-repeat;font-size:0px;}
+.regmain02{width:940px;height:auto;background:url(../../images/user/QQ/title01a.gif) repeat-y; padding:5px 10px;}
+.regmain03{width:960px;height:14px;background:url(../../images/user/QQ/title01b.gif) no-repeat;font-size:0px;position:relative; z-index:99}
+.indexl{float:left;width:669px;padding:0 20px 50px 30px;border-right:1px solid #e8e8e8;overflow:hidden;}
+.indexl .title01{width:669px;height:30px;line-height:30px;font-size:16px;font-weight:bold;border-bottom:1px solid #e9e9e9;color:#1e50a2;padding-bottom:5px;}
+.choicebox{height:30px;padding:30px 0 30px 0px;}/*831*/
+.choicebox .bt{float:left;font-size:16px;width:80px;text-align:right;padding-right:20px;}/*831*/
+.choiceboxts{height:30px;line-height:30px;padding:10px 0 0 17px;font-size:14px;}/*831*/
+.choicebox .s1{float:left;font-size:16px;color:#666;}
+.choicebox .s1 input{margin-right:10px;}
+.choicebox .s1.mar60{margin-right:60px;}
+.content{width:669px;}
+.content01{width:669px;zoom:1;clear:both;z-index:1;position:relative;overflow: hidden;}
+.content01 .dropdown{width:276px;height:auto;line-height:22px;padding:5px 0;border:1px solid #ddd;position:absolute;background:#fff;top:39px;}
+.content01 .dropdown li{width:266px;line-height:22px;padding:0 5px;cursor:pointer;}
+.content01 .dropdown li.bj{background:#d0e8fe;color:#333;}
+.content01 .tit{font-size:14px;width:85px;line-height:41px;height:50px;float:left;text-align:right; padding-right:20px;}
+.content01 .tit em{color:#F00;font-family:"宋体";padding-right:4px; font-style:normal;}
+.content01 .bdmain{float:left;width:280px;margin-right:5px;display:inline;}
+.content01 .user{float:left;width:180px;line-height:41px;height:50px;font-size:14px;font-weight:bold;}
+.content01 .obtain{float:left;width:128px;line-height:20px;height:20px;text-align:center;color:#a8a8a8;background: url(../../images/user/QQ/title10.gif) no-repeat;}
+.content01 .bdmain01{float:left;width:500px;margin-right:5px;display:inline;position:relative;}
+.content01 .bdmain01 .info{float:left;color:#a8a8a8;line-height:18px;padding-left:10px;}
+.content01 .bdmain01 .info a{color:#1e50a2;}
+.content01 .submit{float:left;padding-left:105px;font-size:12px;margin-top:10px;line-height:39px;}
+.content01 .submit img{margin-right:20px;margin-top:0px!important;margin-top:10px;vertical-align:middle;}
+.content01 .submit a{color:#1e50a2;}
+.content01 .bdmain .s1{height:39px;}
+.content01 .other {float:left;padding-left:10px;}
+.content01 .other.shuom{line-height:24px;color:#a8a8a8; margin-top:9px;}
+.content01 .other .plus_a{line-height:24px;padding-top:5px;}
+.content01 .other .plus_b{width:230px;height:43px;line-height:18px;padding:4px 10px 3px 13px;background:url(../../images/user/QQ/title05.gif) no-repeat;color:#a8a8a8;}
+.content01 .other .plus_d{width:230px;height:26px;line-height:26px;padding:0px 10px 0px 13px;background:url(../../images/user/QQ/title05a.gif) no-repeat;color:#a8a8a8;margin-top:6px;}
+.content01 .other .plus_c{width:210px;height:26px;line-height:26px;padding:0px 10px 0px 33px;background:url(../../images/user/QQ/title06.gif) no-repeat;color:#a8a8a8;margin-top:6px;}
+.content01 .other .plus_e{width:210px;height:43px;line-height:18px;padding:4px 10px 0px 33px;background:url(../../images/user/QQ/prompt01.gif) no-repeat;color:#a8a8a8;background-position:0 -95px;}
+.content01 .other .plus_e a{color:#0097ff;}
+
+.input_out,.input_on,.input_move,.input_off{float:left;width:266px;height:39px;line-height:39px;color:#888;font-weight:bold;overflow:hidden;border:0;font-size:14px;padding:0 6px;overflow:hidden;border:none;background:url(../../images/user/QQ/title04.gif) no-repeat 0 0px;_background-attachment:fixed;outline:none;}
+.input_on{background-position:0 -51px;_background-attachment:fixed;color:#333;}
+.input_move{background-position:0 -51px;_background-attachment:fixed;}
+.input_off{background-position:0 0px;_background-attachment:fixed;}
+.inputyz_out,.inputyz_on,.inputyz_move,.inputyz_off{float:left;width:75px;height:39px;line-height:39px;color:#888;font-weight:bold;overflow:hidden;border:0;font-size:14px;padding:0 6px;overflow:hidden;border:none;background:url(../../images/user/QQ/title07.gif) no-repeat 0 0px;_background-attachment:fixed; font-family:Arial;outline:none;}
+.inputyz_on{background-position:0 -41px;_background-attachment:fixed;color:#333;}
+.inputyz_move{background-position:0 -41px;_background-attachment:fixed;}
+.inputyz_off{background-position:0 0px;_background-attachment:fixed;}
+.prompt{width:669px;line-height:24px;color:#a8a8a8;margin-top:100px;}
+.prompt a{color:#75bbec;}
+.pw_failure{float:left;width:20px;height:16px;margin-top:13px;background:url(../../images/user/QQ/tipicon.png) no-repeat 0 -17px;}
+.pw_success{float:left;width:20px;height:16px;margin-top:13px;background:url(../../images/user/QQ/tipicon.png) no-repeat 0 -33px;}
+.pw_weight,.pw_weight span{background:url(../../images/user/QQ/pwbg.png) no-repeat;width:105px;height:22px;overflow:hidden;}
+.pw_weight{margin-top:13px;}
+.pw_weight span{display:block;}
+.pw_weight .w0{background-position:0 0;}
+.pw_weight .w1{background-position:0 -25px;}
+.pw_weight .w2{background-position:0 -50px;}
+.pw_weight .w3{background-position:0 -75px;}
+.nicklist {clear:both;color:#999999;padding:0 0 10px 115px;}
+.nicklist em{font-style:normal;font-weight:normal;}
+.nicklist ul {padding-top:5px;width:310px;overflow:hidden;}
+.nicklist li {float:left;width:150px;height:20px;line-height:20px;overflow: hidden;}
+.nicklist p {margin-top:5px;}
+.nicklist p a,.nicklist p a:hover{color:#0097ff;}
+/*右侧内容*/
+.indexr{float:right;width:200px;padding-left:20px;padding-top:6px;}
+.indexr01{line-height:25px;color:#666;font-size:14px;}
+.indexr01 span{font-size:12px;}
+.indexr01 a{color:#0097ff;}
+.indexr02{height:37px;padding-top:20px;text-align:center;}
+
+/*登录*/
+.loginbox{width:484px;border:1px solid #afc7da;display:none;background:#fff;}
+.loginbox .title{height:31px;line-height:31px;font-size:14px;border-bottom:1px solid #afc7da;background:url(../../images/user/QQ/title803.gif) repeat-x;padding:0 10px 0 15px;font-weight:bold;}
+.loginbox .title span{float:right;height:16px;padding-top:4px;}
+.loginboxnr{width:395px;margin:20px auto;}
+.loginboxnr01{height:20px;line-height:20px;color:#0097ff;margin-bottom:20px;}
+.loginboxnr02{width:395px;height:51px;}
+.loginboxnr02 .tit{font-size:14px;width:70px;line-height:39px;float:left;}
+.loginboxnr02 .tit em{color:#F00;font-family:"宋体";padding-right:4px;font-style:normal;}
+.loginboxnr02 .inputk{float:left;width:325px;}
+.loginboxnr03{height:37px;line-height:37px;padding-left:70px;}
+.loginboxnr03 a{color:#1e50a2;font-size:14px;}
+.loginboxnr03 img{ vertical-align:middle;margin-right:30px;}
+/*尾部*/
+/*div,form,img,ul,ol,li,dl,dt,dd,p{margin:0;padding:0px;border:0;}
+.sfunfooter20120411{width:960px;color:#333;font-size:12px;font-family:'宋体';text-align:center;clear:both;margin:30px auto 0;}
+.sfunfooter20120411 a:link{font-size:12px;color:#333;text-decoration:none;}
+.sfunfooter20120411 a:visited{font-size:12px;color:#333;text-decoration:none;}
+.sfunfooter20120411 a:hover{font-size:12px;color:#c00;text-decoration:underline;}
+.sfunfooter20120411 .song{line-height:20px;}
+.sfunfooter20120411 .verdana{line-height:20px;font-family: Verdana;}
+.sfunfooter20120411 .verdana a{color:#333;font-family:'宋体';padding:0 7px;text-decoration:none;}
+.sfunfooter20120411 .verdana a:hover{color:#c00;text-decoration:underline;}
+.sfunfooter20120411 em{ font-style:normal;font-family: Verdana;}
+.sfunfooter20120411 .spacing{line-height:23px;letter-spacing:3px;font-family:Verdana;margin-top:5px;}
+.sfunfooter20120411 td a{display:block}
+.sfunfooter20120411 td a:hover{background:#d2e1f6;color:#333;text-decoration:none;}
+.sfunfooter20120411 dl{height:20px;padding-left:120px;}
+.sfunfooter20120411 dl dd{float:left;width:72px;line-height:20px;font-family: Verdana;}
+.sfunfooter20120411 dl dd a{padding:0 8px 0 4px;}
+.footershaixa{width:72px;position:relative; z-index:2}
+.footershaixa a{color:#333;text-decoration:none;}
+.footershaixb{display:none;width:500px;height:155px;position:absolute;left:-230px;top:20px;cursor:auto;background:#fff;border:1px solid #81c5fe;text-align:left;}
+.footershaixa.activexiala div{display:block;padding:5px 10px;}
+.footershaixa.activexiala div td{line-height:22px;}*/
+/*9.3*/
+/*.labelboxa{height:103px;background:url(../../images/user/QQ/title02.gif) bottom repeat-x;padding-left:137px; margin:10px 0 30px;}
+.labelboxa .s1,.labelboxa .s2{float:left;width:122px;height:103px;line-height:88px;padding-left:70px;background:url(../../images/user/QQ/title03.gif) no-repeat;margin-left:0px;font-size:14px;font-weight:bold;color:#fff;}
+.labelboxa .s2{background:url(../../images/user/QQ/title03b.gif) no-repeat;color:#888; margin-left:10px;}
+.labelboxa .s3,.labelboxa .s4{float:left;width:122px;height:103px;line-height:88px;padding-left:70px;background:url(../../images/user/QQ/title031b.gif) no-repeat;margin-left:0px;font-size:14px;font-weight:bold;color:#888;}
+.labelboxa .s4{background:url(../../images/user/QQ/title031a.gif) no-repeat;color:#fff;}
+.labelboxa .s1 a,.labelboxa .s4 a{color:#fff;}
+.labelboxa .s2 a,.labelboxa .s3 a{color:#888; font-weight:normal;}*/
+/*9.12修改*/
+.newbox{width:820px;margin:20px auto;}
+.newbox01{width:345px;line-height:25px;margin:0px auto 20px;color:#333;}
+.tabtitle{height:48px;background:url(../../images/user/QQ/12091202.gif) repeat-x;padding-left:238px;}
+.tabtitle .s1,.tabtitle .s2{float:left;width:172px;height:48px;line-height:42px;background:url(../../images/user/QQ/12091201.gif) repeat-x;font-size:14px;font-family:"微软雅黑";color:#fff;text-align:center;cursor:pointer;margin-right:10px;}
+.tabtitle .s2{background:url(../../images/user/QQ/12091201a.gif) repeat-x;color:#333;}
+.content.mart20{ margin:30px 0 0px 120px;}
+.content.marl120{ margin:0 0 0px 120px;}
+.content01 .radio{float:left;font-size:14px;color:#666;padding-top:9px;margin-right:20px;}
+.newboxts{width:600px;margin:30px auto;color:#999;line-height:25px;}
+.newboxts a{width:699px;margin:30px auto;color:#1e50a2;}
+.content_new.mart20{ margin:30px 0 0px 120px;}
+
+/*20120814验证码新增*/
+/*.yzbox{width:196px;height:77px; position:absolute;top:-76px;left:400px;}
+.yzboxa{width:180px;height:50px;background:#dbf2fe; border:1px solid #78c2f5;border-bottom:0px;padding:10px 7px;}
+.yzboxb{width:196px;height:7px;background:url(../../images/user/QQ/081401.gif) no-repeat bottom; font-size:0px;}
+.yzboxa01{width:180px;height:23px;}
+.yzboxa01but{float:left;width:44px;height:23px;line-height:23px;border:0px;cursor:pointer;background:url(../../images/user/QQ/081402.gif) no-repeat;font-size:12px;color:#fff;}
+.yzboxa01inp{float:left;width:40px;height:19px;line-height:19px;color:#000;overflow:hidden;border:1px solid #6dbfff;font-size:12px;margin-right:5px;}
+.yzboxa01 .s1{float:left;width:80px;height:23px;line-height:23px;overflow:hidden;margin-right:5px;}
+.yzboxa01 .s2{float:left;height:23px;overflow:hidden;}
+.yzboxa02{width:180px;height:20px;line-height:20px;margin-top:8px;}
+.yzboxa02 .s1{float:left;width:80px;text-align:center;overflow:hidden;margin-right:5px;color:#0097ff;}
+.yzboxa02 .s1 a{color:#0097ff;}
+.yzboxa02 .s2{float:left;background:url(../../images/user/QQ/081404.gif) no-repeat 0 2px;padding-left:20px;}
+*/
+
